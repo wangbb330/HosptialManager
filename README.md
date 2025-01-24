@@ -1,2 +1,2 @@
 # HosptialManager
-医疗一同
+医疗系统
